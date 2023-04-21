@@ -1,0 +1,5 @@
+server: {
+    hmr: {
+        host: 'localhost'
+    }
+}
